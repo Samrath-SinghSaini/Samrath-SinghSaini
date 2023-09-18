@@ -24,8 +24,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samrath-singh-saini-b50508200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samrath-singh-saini-b50508200/" height="30" width="40" /></a>
 </p>
 <p align="left">
-  <a href="https://samrathsinghsaini-portfolio.onrender.com/">
-  <img src="/professional-portfolio.png" alt="portfolio-icon" height="50" width="50"/>
+    <a href="https://samrathsinghsaini-portfolio.onrender.com/">
+  <img src="/professional-port.png" alt="portfolio-icon" height="50" width="50"/>
   </a>
 </p>
 
