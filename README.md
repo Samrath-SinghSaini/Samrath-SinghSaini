@@ -25,7 +25,7 @@
 </p>
 <p align="left">
     <a href="https://samrathsinghsaini-portfolio.onrender.com/">
-  <img src="/professional-port.png" alt="portfolio-icon" height="50" width="50"/>
+  <img src="/professional-portfolio.png" alt="portfolio-icon" height="50" width="50"/>
   </a>
 </p>
 
