@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samrath</h1>
+<h1 align="center">Hi, I'm Samrath 👋</h1>
 <h3 align="center">A passionate Full-stack developer in Canada</h3>
 
 - 🗿 I’m actively searching for roles in **Web and Software Development.**
@@ -7,7 +7,7 @@
 
 - 🎈 I specialize in Web and Software development languages like JavaScript, Java, Swift, a bit of Kotlin, Python and C#, frameworks like Spring, React, NodeJS, Express and Databases including MySQL, MongoDB, PostgreSQL. 
   
-- 🔭 I’m currently working on **an Ecommerce store app made with the MERN stack**
+- 🔭 I’m currently working on **practicing DSA with Leetcode and learning more complex technologies**
 
 - 🌱 I’m currently making projects with **Java and the MERN stack**
 
