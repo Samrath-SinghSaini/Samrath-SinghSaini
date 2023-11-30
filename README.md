@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **samraths.saini@gmail.com**
 
-- ⚡ Fun fact **I have a good taste in movies and coffee 🍵**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
