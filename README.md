@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Samrath 👋</h1>
 <h3 align="center">A passionate Full-stack developer in Canada</h3>
 
+<h4>I am currently enrolled in Seneca Polytechnic College's Bachelor of Computer Science program, along with continuing my role as a Technical Support Engineer at VoPay International Inc. </h4>
+
 - 🗿 I’m actively searching for roles in **Web and Software Development.**
 
 - 🐅 I have a Computer Programmer Diploma from Georgian College in Barrie, ON.
