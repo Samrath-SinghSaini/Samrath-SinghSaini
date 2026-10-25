@@ -9,13 +9,11 @@
 
 - 🎈 I specialize in Web and Software development languages like JavaScript, Java, Swift, a bit of Kotlin, Python and C#, frameworks like Spring, React, NodeJS, Express and Databases including MySQL, MongoDB, PostgreSQL. 
   
-- 🔭 I’m currently working on **practicing DSA with Leetcode and learning more complex technologies**
-
-- 🌱 I’m currently making projects with **Java and the MERN stack**
+- 🌱 I’m currently making new projects with Python and developing my understanding of Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://samrathsinghsaini-portfolio.onrender.com/](https://samrathsinghsaini-portfolio.onrender.com/)
 
-- 💬 Ask me about **React, Java and Javascript**
+- 💬 Ask me about **Python and React JS **
 
 - 📫 How to reach me **samraths.saini@gmail.com**
 
